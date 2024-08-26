@@ -3,7 +3,7 @@ This project explores the development and optimization of algorithms for matchin
 
 ![image](https://github.com/user-attachments/assets/50c12e8b-b4ea-45f4-a116-57ca5504dd31)
 
-**Key Features:**
+## **Key Features:**
 
 **Algorithm Iterations:** The project involves three iterations of algorithm development, starting from a basic assignment approach to more advanced graph-based matching techniques.
 
