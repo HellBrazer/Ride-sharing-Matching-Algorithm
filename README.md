@@ -9,7 +9,7 @@ This project explores the development and optimization of algorithms for matchin
 
 **Dynamic Optimization:** The final solution employs state-of-the-art graph theory algorithms to find the optimal matches, minimizing total travel distance and time deviations.
 
-**Data Visualization:** Visual representations of the matching process are provided to illustrate the algorithm's effectiveness, including graph-based visualizations of rider-passenger connections.
+**Data Visualization:** To illustrate the algorithm's effectiveness, Visual representations of the matching process, including graph-based visualizations of rider-passenger connections, are provided.
 
 **Complexity Handling:** The project handles increasing complexity by scaling the number of riders and passengers, ensuring the algorithm's robustness and scalability.
 
